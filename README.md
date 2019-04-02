@@ -14,32 +14,6 @@ Because I prefer not to install some random binary I installed [Microsoft Keyboa
 
 I also removed the most "dead keys" and converted them to normal keys. I think they are not really user friendly and belong into Vim and not a keyboard layout.
 
-For reference the layout now looks like that:
-
-### No modifier pressed
-
-![Standard](normal.png)
-
-### Shift pressed
-
-![Standard](shift.png)
-
-### AltGr (or Ctrl + Alt) pressed
-
-![AltGr](altgr.png)
-
-### Shift + AltGr (or Ctrl + Alt) pressed
-
-![ShiftAltGr](shift-altgr.png)
-
-### Shift + Caps pressed
-
-![CapsShift](caps-shift.png)
-
-### Shift + Caps + AltGr (or Ctrl + Alt pressed
-
-![CapsShiftAltGr](shift-altgr-caps.png)
-
 ## Install
 
 Don't trust random people from the internet. I recommend installing the [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339) and create the Setup yourself from the EurKeyNg.klc file. The program is free and building is really easy.
